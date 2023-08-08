@@ -1,3 +1,12 @@
+# Adding Next-Auth v4 to NextJs 13.4 project with custom Login page from Material UI
+- Create a nextJs app with `npx create-next-app nextjs-auth`
+- Install NextAuth `npm install next-auth`
+- Install Material UI `npm install @mui/material @emotion/react @emotion/styled`
+- Install extra material ui components and icons `npm install @mui/icons-material @mui/material @emotion/styled @emotion/react`
+- Install `react-hook-form` for submitting mui login form `npm install react-hook-form`,
+- Add whole `api` folder
+- Add `middleware.tsx`
+# Next JS Documet
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
